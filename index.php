@@ -39,7 +39,7 @@
         </p>
         <p>
             <?php
-            $numberOfHobbits = 2;
+            $numberOfHobbits = 1;
 
             switch ($numberOfHobbits){
                 case 1:
