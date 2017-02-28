@@ -24,10 +24,10 @@
             $name = "Edgar";
 
             if ($name == "Simon"){
-                print "I know you!";
+                echo "I know you!";
             }
             else {
-                print "Who are you?";
+                echo "Who are you?";
             }
             ?>
         </p>
