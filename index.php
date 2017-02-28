@@ -14,20 +14,26 @@
             $myage = 111;
 
             echo "<br/> My name is " .$myname." and I am ".$myage;
-
+            ?>
+        </p>
+        <p>
+            <?php
             echo "I get printed";
             // I don't! I'm a comment.
 
             /* I don't get printed either
             and neither do I*/
-
+            ?>
+        </p>
+        <p>
+            <?php
             $name = "Edgar";
 
             if ($name == "Simon"){
-                echo "I know you!";
+                print "I know you!";
             }
             else {
-                echo "Who are you?";
+                print "Who are you?";
             }
             ?>
         </p>
