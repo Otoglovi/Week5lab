@@ -7,8 +7,8 @@
         <p>
             <?php
             echo "Hello World. This is my Time!!!";
-            echo "<br/>Hello," . "" . "worldz" . "!";
-            echo "<br/> 5*7";
+            echo "<br/>Hello," . "" . "worldz" . "!<br/>";
+            echo 5*7;
             ?>
         </p>
     </body>
