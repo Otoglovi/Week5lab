@@ -7,7 +7,7 @@
         <p>
             <?php
             echo "Hello World. This is my Time!!!";
-            echo "<br />\r\n Hello," . "" . "worldz" . "!";
+            echo "<br />\n Hello," . "" . "worldz" . "!";
             ?>
         </p>
     </body>
