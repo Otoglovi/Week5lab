@@ -20,6 +20,15 @@
 
             /* I don't get printed either
             and neither do I*/
+
+            $name = "Edgar";
+
+            if ($name == "Simon"){
+                print "I know you!";
+            }
+            else {
+                print "I don't know you";
+            }
             ?>
         </p>
     </body>
