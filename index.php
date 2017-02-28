@@ -13,7 +13,7 @@
             $myname = "Frodo Baggins";
             $myage = 111;
 
-            echo "<br/> My name is " .$myname." and I am ".$myage;
+            echo "<br/> My name is " .$myname." and I am ".$myage. " years old";
             ?>
         </p>
         <p>
