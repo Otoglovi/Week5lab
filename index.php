@@ -58,7 +58,7 @@
         </p>
         <p>
             <?php
-            $wantedgood = 'mugs';
+            $wantedgood = 'sausage rolls';
 
             switch ($wantedgood){
                 case 'specs':
