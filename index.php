@@ -88,5 +88,12 @@
             unset($myArray[2]); //removes the array in position 2
             ?>
         </p>
+        <p>
+            <?php
+            for ($x = 1; $x < 10; $x++){
+                echo "<p>Hello!</p>";
+            }
+            ?>
+        </p>
     </body>
 </html>
