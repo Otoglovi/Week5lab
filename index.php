@@ -83,7 +83,7 @@
 
             $myArray[1] = " la"; //modifies position 1 (re)
 
-            echo $myArray[1]; //outputs "la"
+            echo "<br /> $myArray[1]"; //outputs "la"
 
             unset($myArray[2]); //removes the array in position 2
             ?>
