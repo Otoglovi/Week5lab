@@ -97,8 +97,10 @@
         </p>
         <p>
             <?php
-            while (2 > 1){
+            $d = 0;
+            while (2 > $d){
                 echo "<p>On the th of the month Specs and Sausage Rolls are available</p>";
+                $d++;
             }
             ?>
         </p>
